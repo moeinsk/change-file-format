@@ -3,5 +3,5 @@ enjoy it
 
 
 instaling:
-    frist install image lib with :
+    first install image lib with :
           'pip install image'
